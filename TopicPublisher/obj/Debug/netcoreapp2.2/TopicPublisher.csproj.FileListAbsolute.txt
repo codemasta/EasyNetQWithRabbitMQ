@@ -1,0 +1,11 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csprojAssemblyReference.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.pdb

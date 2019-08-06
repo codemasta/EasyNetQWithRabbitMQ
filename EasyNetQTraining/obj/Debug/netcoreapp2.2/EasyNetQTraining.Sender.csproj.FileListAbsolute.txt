@@ -1,0 +1,14 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\bin\Debug\netcoreapp2.2\EasyNetQTraining.Sender.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\bin\Debug\netcoreapp2.2\EasyNetQTraining.Sender.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\bin\Debug\netcoreapp2.2\EasyNetQTraining.Sender.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\bin\Debug\netcoreapp2.2\EasyNetQTraining.Sender.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\bin\Debug\netcoreapp2.2\EasyNetQTraining.Sender.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\bin\Debug\netcoreapp2.2\EasyNetQ.Core.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\bin\Debug\netcoreapp2.2\EasyNetQ.Core.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\obj\Debug\netcoreapp2.2\EasyNetQTraining.Sender.csprojAssemblyReference.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\obj\Debug\netcoreapp2.2\EasyNetQTraining.Sender.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\obj\Debug\netcoreapp2.2\EasyNetQTraining.Sender.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\obj\Debug\netcoreapp2.2\EasyNetQTraining.Sender.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\obj\Debug\netcoreapp2.2\EasyNetQTraining.Sender.csproj.CopyComplete
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\obj\Debug\netcoreapp2.2\EasyNetQTraining.Sender.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQTraining\obj\Debug\netcoreapp2.2\EasyNetQTraining.Sender.pdb

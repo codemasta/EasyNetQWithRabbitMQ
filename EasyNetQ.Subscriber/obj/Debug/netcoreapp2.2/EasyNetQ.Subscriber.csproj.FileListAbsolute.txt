@@ -1,0 +1,14 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\bin\Debug\netcoreapp2.2\EasyNetQ.Subscriber.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\bin\Debug\netcoreapp2.2\EasyNetQ.Subscriber.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\bin\Debug\netcoreapp2.2\EasyNetQ.Subscriber.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\bin\Debug\netcoreapp2.2\EasyNetQ.Subscriber.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\obj\Debug\netcoreapp2.2\EasyNetQ.Subscriber.csprojAssemblyReference.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\obj\Debug\netcoreapp2.2\EasyNetQ.Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\obj\Debug\netcoreapp2.2\EasyNetQ.Subscriber.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\obj\Debug\netcoreapp2.2\EasyNetQ.Subscriber.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\bin\Debug\netcoreapp2.2\EasyNetQ.Subscriber.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\bin\Debug\netcoreapp2.2\EasyNetQ.Core.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\bin\Debug\netcoreapp2.2\EasyNetQ.Core.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\obj\Debug\netcoreapp2.2\EasyNetQ.Subscriber.csproj.CopyComplete
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\obj\Debug\netcoreapp2.2\EasyNetQ.Subscriber.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNetQ.Subscriber\obj\Debug\netcoreapp2.2\EasyNetQ.Subscriber.pdb

@@ -1,0 +1,14 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\bin\Debug\netcoreapp2.2\RequestAsync.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\bin\Debug\netcoreapp2.2\RequestAsync.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\bin\Debug\netcoreapp2.2\RequestAsync.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\bin\Debug\netcoreapp2.2\RequestAsync.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\bin\Debug\netcoreapp2.2\RequestAsync.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\bin\Debug\netcoreapp2.2\Request.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\bin\Debug\netcoreapp2.2\Request.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\obj\Debug\netcoreapp2.2\RequestAsync.csprojAssemblyReference.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\obj\Debug\netcoreapp2.2\RequestAsync.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\obj\Debug\netcoreapp2.2\RequestAsync.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\obj\Debug\netcoreapp2.2\RequestAsync.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\obj\Debug\netcoreapp2.2\RequestAsync.csproj.CopyComplete
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\obj\Debug\netcoreapp2.2\RequestAsync.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\RequestAsync\obj\Debug\netcoreapp2.2\RequestAsync.pdb

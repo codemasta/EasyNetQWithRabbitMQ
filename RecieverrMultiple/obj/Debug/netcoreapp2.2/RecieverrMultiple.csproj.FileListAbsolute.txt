@@ -1,0 +1,7 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\RecieverrMultiple\bin\Debug\netcoreapp2.2\RecieverrMultiple.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\RecieverrMultiple\bin\Debug\netcoreapp2.2\RecieverrMultiple.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\RecieverrMultiple\bin\Debug\netcoreapp2.2\RecieverrMultiple.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\RecieverrMultiple\bin\Debug\netcoreapp2.2\RecieverrMultiple.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\RecieverrMultiple\obj\Debug\netcoreapp2.2\RecieverrMultiple.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\RecieverrMultiple\obj\Debug\netcoreapp2.2\RecieverrMultiple.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\RecieverrMultiple\obj\Debug\netcoreapp2.2\RecieverrMultiple.AssemblyInfo.cs

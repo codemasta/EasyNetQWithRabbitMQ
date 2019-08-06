@@ -1,0 +1,14 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\bin\Debug\netcoreapp2.2\EasyNETQ.Publish.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\bin\Debug\netcoreapp2.2\EasyNETQ.Publish.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\bin\Debug\netcoreapp2.2\EasyNETQ.Publish.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\bin\Debug\netcoreapp2.2\EasyNETQ.Publish.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\bin\Debug\netcoreapp2.2\EasyNETQ.Publish.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\bin\Debug\netcoreapp2.2\EasyNetQ.Core.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\bin\Debug\netcoreapp2.2\EasyNetQ.Core.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\obj\Debug\netcoreapp2.2\EasyNETQ.Publish.csprojAssemblyReference.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\obj\Debug\netcoreapp2.2\EasyNETQ.Publish.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\obj\Debug\netcoreapp2.2\EasyNETQ.Publish.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\obj\Debug\netcoreapp2.2\EasyNETQ.Publish.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\obj\Debug\netcoreapp2.2\EasyNETQ.Publish.csproj.CopyComplete
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\obj\Debug\netcoreapp2.2\EasyNETQ.Publish.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\EasyNETQ.Publish\obj\Debug\netcoreapp2.2\EasyNETQ.Publish.pdb

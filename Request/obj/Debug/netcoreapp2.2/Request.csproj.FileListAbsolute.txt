@@ -1,0 +1,10 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\bin\Debug\netcoreapp2.2\Request.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\bin\Debug\netcoreapp2.2\Request.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\bin\Debug\netcoreapp2.2\Request.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\bin\Debug\netcoreapp2.2\Request.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\obj\Debug\netcoreapp2.2\Request.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\obj\Debug\netcoreapp2.2\Request.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\obj\Debug\netcoreapp2.2\Request.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\bin\Debug\netcoreapp2.2\Request.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\obj\Debug\netcoreapp2.2\Request.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\Request\obj\Debug\netcoreapp2.2\Request.pdb

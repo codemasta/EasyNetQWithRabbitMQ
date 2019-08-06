@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Subscriber\\EasyNetQ.Subscriber.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Core\\EasyNetQ.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Core\\EasyNetQ.Core.csproj",
+        "projectName": "EasyNetQ.Core",
+        "projectPath": "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Core\\EasyNetQ.Core.csproj",
+        "packagesPath": "C:\\Users\\macintosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macintosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Subscriber\\EasyNetQ.Subscriber.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Subscriber\\EasyNetQ.Subscriber.csproj",
+        "projectName": "EasyNetQ.Subscriber",
+        "projectPath": "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Subscriber\\EasyNetQ.Subscriber.csproj",
+        "packagesPath": "C:\\Users\\macintosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Subscriber\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macintosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Core\\EasyNetQ.Core.csproj": {
+                "projectPath": "C:\\Users\\macintosh\\source\\repos\\EasyNetQTraining\\EasyNetQ.Core\\EasyNetQ.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

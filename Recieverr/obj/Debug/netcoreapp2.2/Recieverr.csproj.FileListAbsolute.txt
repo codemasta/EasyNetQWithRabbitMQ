@@ -1,0 +1,14 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\bin\Debug\netcoreapp2.2\Recieverr.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\bin\Debug\netcoreapp2.2\Recieverr.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\bin\Debug\netcoreapp2.2\Recieverr.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\bin\Debug\netcoreapp2.2\Recieverr.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\obj\Debug\netcoreapp2.2\Recieverr.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\obj\Debug\netcoreapp2.2\Recieverr.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\obj\Debug\netcoreapp2.2\Recieverr.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\bin\Debug\netcoreapp2.2\Recieverr.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\bin\Debug\netcoreapp2.2\Request.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\bin\Debug\netcoreapp2.2\Request.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\obj\Debug\netcoreapp2.2\Recieverr.csprojAssemblyReference.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\obj\Debug\netcoreapp2.2\Recieverr.csproj.CopyComplete
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\obj\Debug\netcoreapp2.2\Recieverr.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\Recieverr\obj\Debug\netcoreapp2.2\Recieverr.pdb

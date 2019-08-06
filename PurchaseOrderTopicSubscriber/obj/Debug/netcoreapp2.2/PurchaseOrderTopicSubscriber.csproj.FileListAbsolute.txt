@@ -1,0 +1,14 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\bin\Debug\netcoreapp2.2\TopicPublisher.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\obj\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\obj\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\obj\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.AssemblyInfo.cs
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\bin\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\bin\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\bin\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\bin\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\bin\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\bin\Debug\netcoreapp2.2\TopicPublisher.pdb
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\obj\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.csprojAssemblyReference.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\obj\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.csproj.CopyComplete
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\obj\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\PurchaseOrderTopicSubscriber\obj\Debug\netcoreapp2.2\PurchaseOrderTopicSubscriber.pdb

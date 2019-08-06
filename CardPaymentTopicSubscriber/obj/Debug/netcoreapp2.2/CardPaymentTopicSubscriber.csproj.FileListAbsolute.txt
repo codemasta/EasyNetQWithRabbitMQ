@@ -1,0 +1,7 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\CardPaymentTopicSubscriber\bin\Debug\netcoreapp2.2\CardPaymentTopicSubscriber.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\CardPaymentTopicSubscriber\bin\Debug\netcoreapp2.2\CardPaymentTopicSubscriber.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\CardPaymentTopicSubscriber\bin\Debug\netcoreapp2.2\CardPaymentTopicSubscriber.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\CardPaymentTopicSubscriber\bin\Debug\netcoreapp2.2\CardPaymentTopicSubscriber.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\CardPaymentTopicSubscriber\obj\Debug\netcoreapp2.2\CardPaymentTopicSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\CardPaymentTopicSubscriber\obj\Debug\netcoreapp2.2\CardPaymentTopicSubscriber.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\CardPaymentTopicSubscriber\obj\Debug\netcoreapp2.2\CardPaymentTopicSubscriber.AssemblyInfo.cs

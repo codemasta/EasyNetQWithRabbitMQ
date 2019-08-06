@@ -1,0 +1,7 @@
+C:\Users\macintosh\source\repos\EasyNetQTraining\AccountsTopicSubscriber\bin\Debug\netcoreapp2.2\AccountsTopicSubscriber.deps.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\AccountsTopicSubscriber\bin\Debug\netcoreapp2.2\AccountsTopicSubscriber.runtimeconfig.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\AccountsTopicSubscriber\bin\Debug\netcoreapp2.2\AccountsTopicSubscriber.runtimeconfig.dev.json
+C:\Users\macintosh\source\repos\EasyNetQTraining\AccountsTopicSubscriber\bin\Debug\netcoreapp2.2\AccountsTopicSubscriber.dll
+C:\Users\macintosh\source\repos\EasyNetQTraining\AccountsTopicSubscriber\obj\Debug\netcoreapp2.2\AccountsTopicSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\AccountsTopicSubscriber\obj\Debug\netcoreapp2.2\AccountsTopicSubscriber.AssemblyInfoInputs.cache
+C:\Users\macintosh\source\repos\EasyNetQTraining\AccountsTopicSubscriber\obj\Debug\netcoreapp2.2\AccountsTopicSubscriber.AssemblyInfo.cs
